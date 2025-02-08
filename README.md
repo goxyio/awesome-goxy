@@ -7,7 +7,7 @@
 - [goxy-chat-plugin](https://gitlab.com/goxy.pl/minecraft/goxy-chat-plugin) - tbd
 - [goxy-admin-chat-plugin](https://gitlab.com/goxy.pl/minecraft/goxy-admin-chat-plugin) - tbd
 - [goxy-compass-plugin](https://gitlab.com/goxy.pl/minecraft/goxy-compass-plugin) - tbd
-- [GoxyNavigation](https://github.com/MrPatryk/GoxyNavigation) - tbd
+- [GoxyNavigation](https://github.com/MrPatryk/GoxyNavigation) - Server navigation plugin for goxy.io proxy / Support for sending commands to others proxy servers.
 
 
 ## Libraries
