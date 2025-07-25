@@ -9,6 +9,7 @@
 - [goxy-compass-plugin](https://gitlab.com/goxy.pl/minecraft/goxy-compass-plugin) - tbd
 - [GoxyNavigation](https://github.com/MrPatryk/GoxyNavigation) - Server navigation plugin for goxy.io proxy / Support for sending commands to others proxy servers.
 - [goxyresourcepack](https://github.com/makindotcc/goxyresourcepack) - A plugin that require a resource pack only once when joining the server network with multiple servers.
+- [GoxyWelcome](https://github.com/iipanda/GoxyWelcome) - A welcome message plugin for server networks using the Goxy proxy that distinguishes between genuine server joins and internal server transfers.
 
 ## Libraries
 
